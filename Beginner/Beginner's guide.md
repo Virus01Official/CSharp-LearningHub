@@ -15,7 +15,7 @@ Let's write a simple "Hello, World!" program to get started. Open Visual Studio 
 1. Create a new project by selecting "File" > "New" > "Project".
 2. Choose "Console App (.NET Core)" from the list of project templates.
 3. Enter a name for your project and click "Create".
-4. Once the project is created, you'll see a file named `Program.cs`. Double-click to open it.
+4. Once the project is created, you'll see a file named `Main.cs`. Double-click to open it.
 5. Replace the existing code with the following:
 
 ```csharp
