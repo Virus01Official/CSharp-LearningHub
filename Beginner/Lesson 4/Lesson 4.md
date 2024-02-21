@@ -71,5 +71,3 @@ Practice defining and calling functions in your C# programs to improve code orga
 Stay tuned for the next lesson where we'll explore arrays and collections in C#.
 
 Happy coding!
-
-[Your Name](link to your profile)
