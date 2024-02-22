@@ -23,3 +23,5 @@ Ready to embark on your C# learning journey? Don't forget to star this repositor
 Happy coding!
 
 - Virus 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O0T5TKX)
