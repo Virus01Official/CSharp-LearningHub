@@ -12,7 +12,6 @@ In this repository, you'll find a comprehensive collection of tutorials, exercis
 - Start with the **Beginner's Guide**: If you're new to C# or programming in general, begin with the beginner's guide. It covers the basics, including variables, control flow, and functions.
 - Dive into **Intermediate Topics**: Once you're comfortable with the basics, move on to intermediate topics like object-oriented programming, exception handling, and file I/O.
 - Explore **Advanced Concepts**: Ready to take your skills to the next level? Explore advanced concepts such as LINQ, asynchronous programming, and design patterns.
-- Get Hands-On with **Projects**: Put your skills to the test by working on practical projects, ranging from simple console applications to full-fledged web and desktop applications.
 
 #### Contribution
 This repository is open to contributions from the community. If you have suggestions for improvements, found errors, or want to add your own tutorials or projects, feel free to submit a pull request. Let's collaborate and make this resource even better for learners worldwide!
